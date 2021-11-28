@@ -4,7 +4,7 @@
 npx babel-node bin/process-svgs.js
 
 # Create dist directory
-npx rimraf dist
+rm -rf dist
 mkdir dist
 
 # Build icons.json
@@ -14,7 +14,7 @@ npx babel-node bin/build-icons-json.js
 npx babel-node bin/build-sprite.js
 
 # Create dist/icons directory
-npx rimraf dist/icons
+rm -rf dist/icons
 mkdir dist/icons
 
 # Build SVG icons
