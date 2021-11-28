@@ -1,4 +1,4 @@
-# Feather
+# SolarPanel Icons
 
 [![Build status](https://img.shields.io/travis/feathericons/feather/master.svg?style=flat-square)](https://travis-ci.org/feathericons/feather)
 [![Coverage](https://img.shields.io/codecov/c/github/feathericons/feather/master.svg?style=flat-square)](https://codecov.io/gh/feathericons/feather)
@@ -7,9 +7,9 @@
 [![CDNJS version](https://img.shields.io/cdnjs/v/feather-icons.svg?style=flat-square)](https://cdnjs.com/libraries/feather-icons)
 [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)](https://www.paypal.me/colebemis/5)
 
-## What is Feather?
+## What is SolarPanel Icons?
 
-Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency, and flexibility.
+SolarPanel Icons is an icon set which is forked from [Feather](https://feathericons.com), a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency, and flexibility.
 
 https://feathericons.com
 
